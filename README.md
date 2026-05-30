@@ -1,5 +1,5 @@
 # Explainable Credit Risk Modelling for Thin-File Borrowers
-## Complete Reproducible Codebase — Garima Diyawar, MBA (Finance) Dissertation
+## Complete Reproducible Codebase — Garima Diyawar, B.Tech CSE Dissertation
 
 ---
 
